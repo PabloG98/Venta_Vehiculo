@@ -1,0 +1,319 @@
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\csc.exe
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Collections.Immutable.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\vbc.exe
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe.config
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll.config
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.Web.Infrastructure.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.xml
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Razor.resources.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.resources.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Deployment.resources.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Razor.resources.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Helpers.resources.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Mvc.resources.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos_2014067.Migrations.DB_VEHICULO.resources
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csproj.GenerateResource.Cache
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.dll
+c:\users\informatica\documents\visual studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.pdb
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\csc.exe
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Collections.Immutable.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Reflection.Metadata.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\vbc.exe
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe.config
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll.config
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.pdb
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.Web.Infrastructure.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.xml
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Razor.resources.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.resources.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Helpers.resources.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Mvc.resources.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csprojResolveAssemblyReference.cache
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos_2014067.Migrations.DB_VEHICULO.resources
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csproj.GenerateResource.Cache
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.dll
+E:\ \USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.pdb
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csprojResolveAssemblyReference.cache
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\csc.exe
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Collections.Immutable.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Reflection.Metadata.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\vbc.exe
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe.config
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll.config
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.pdb
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.Web.Infrastructure.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.xml
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Razor.resources.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.resources.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Helpers.resources.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Mvc.resources.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos_2014067.Migrations.db_vehiculo.resources
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csproj.GenerateResource.Cache
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.dll
+C:\USB\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.pdb
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\csc.exe
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Collections.Immutable.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Reflection.Metadata.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\vbc.exe
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe.config
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll.config
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.pdb
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.Web.Infrastructure.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.xml
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Razor.resources.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.resources.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Helpers.resources.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Mvc.resources.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos_2014067.Migrations.db_vehiculo.resources
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csproj.GenerateResource.Cache
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.dll
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.pdb
+E:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csprojResolveAssemblyReference.cache
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\csc.exe
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Collections.Immutable.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Reflection.Metadata.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\vbc.exe
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe.config
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll.config
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.pdb
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.Web.Infrastructure.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.xml
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Razor.resources.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.resources.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Helpers.resources.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Mvc.resources.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.dll
+E:\ \Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.pdb
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\csc.exe
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Collections.Immutable.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\System.Reflection.Metadata.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\vbc.exe
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\roslyn\VBCSCompiler.exe.config
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Venta_Vehiculos-2014067.pdb
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\mscorlib.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\EntityFramework.SqlServer.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\Newtonsoft.Json.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Net.Http.Formatting.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Http.WebHost.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Razor.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Deployment.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Webpages.Razor.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Helpers.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\System.Web.Mvc.xml
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\mscorlib.resources.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Razor.resources.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.resources.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Deployment.resources.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Webpages.Razor.resources.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Helpers.resources.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\es\System.Web.Mvc.resources.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\normidna.nlp
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\normnfc.nlp
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\normnfd.nlp
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\normnfkc.nlp
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\bin\normnfkd.nlp
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.csprojResolveAssemblyReference.cache
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.dll
+H:\Venta_Vehiculos-2014067\Venta_Vehiculos-2014067\obj\Debug\Venta_Vehiculos-2014067.pdb

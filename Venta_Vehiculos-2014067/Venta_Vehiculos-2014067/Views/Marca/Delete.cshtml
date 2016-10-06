@@ -1,0 +1,32 @@
+﻿@model Venta_Vehiculos_2014067.Models.Marca
+
+@{
+    ViewBag.Title = "Eliminar Marca - Admon.";
+}
+
+<h2>Eliminar Marca<small>Panel de Administración</small></h2>
+
+<h3>¿Estás seguro de eliminar esta marca?</h3>
+<div>
+    <h4>Marca</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Regresar a INICIO", "Index")
+        </div>
+    }
+</div>

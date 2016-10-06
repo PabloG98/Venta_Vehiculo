@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Contacto";
+}
+
+<h2>Contacto</h2>
+@if (Session["nombreUsuario"] != null)
+{
+    <h2>Bienvenido @Session["nombreUsuario"] a la área de servicio al cliente</h2>
+    <div class="page-header">
+    </div>
+    <div class="row">
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="~/Imagenes/llamada.jpg" alt="...">
+                <div class="caption">
+                    <h3>Llámanos</h3>
+                    <p>PBX:</p>
+                    <p>2234 - 0304</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="~/Imagenes/facebook.png" alt="...">
+                <div class="caption">
+                    <h3>Facebook</h3>
+                    <p>Buscanos en facebook como:</p>
+                    <p>iSHOP CAR</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+                <img src="~/Imagenes/whatsapp.png" alt="...">
+                <div class="caption">
+                    <h3>WhatsApp</h3>
+                    <p>Ahora con nuestra nueva vía de comunicación:</p>
+                    <p>Contactanos al: 4670 - 6029</p>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+

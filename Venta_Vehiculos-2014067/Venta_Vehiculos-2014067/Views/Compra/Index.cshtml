@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Venta_Vehiculos_2014067.Models.Vehiculo>
+@{
+    ViewBag.Title = "Compras";
+}
+
+<h2>Compras</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tipoCombustible)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th></th>
+    </tr>
+</table>
+
+<p>
+    @Html.ActionLink("Regresar a INICIO", "Index", "Home")
+</p>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Venta_Vehiculos_2014067.Models.Vehiculo>
+
+@{
+    ViewBag.Title = "Vehiculos";
+}
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("iSHOP CAR", "IndexUsuario", "Usuario", new { area = "" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li>@Html.ActionLink("INICIO", "IndexUsuario", "Usuario")</li>
+                <li>@Html.ActionLink("VEHICULOS", "VehiculoUsuario", "Usuario")</li>
+                <li>@Html.ActionLink("CONTACTANOS", "ContactoUsuario", "Usuario")</li>
+                <li role="presentation" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                        @Session["nombreUsuario"] <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li> @Html.ActionLink("Cerrar Sesion", "Logout", "Cuenta")</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<h2>Vehiculos</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tipoCombustible)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio)
+        </th>
+        <th></th>
+    </tr>
+</table>
+<p>
+    @Html.ActionLink("Regresar a INICIO", "IndexUsuario", "Usuario")
+</p>

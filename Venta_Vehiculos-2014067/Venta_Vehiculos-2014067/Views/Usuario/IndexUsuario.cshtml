@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "iSHOP CAR";
+}
+<body>
+    
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("iSHOP CAR", "IndexUsuario", "Usuario", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>@Html.ActionLink("INICIO", "IndexUsuario", "Usuario")</li>
+                        <li>@Html.ActionLink("VEHICULOS", "VehiculoUsuario", "Usuario")</li>
+                        <li>@Html.ActionLink("CONTACTANOS", "ContactoUsuario", "Usuario")</li>
+                        <li role="presentation" class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                                @Session["nombreUsuario"] <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li> @Html.ActionLink("Cerrar Sesion", "Logout", "Cuenta")</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+        </div>
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+
+@if (Session["nombreUsuario"] != null)
+{
+<h2>Bienvenido @Session["nombreUsuario"]</h2>
+<div class="page-header">
+    <h1>Inicio</h1>
+</div>
+<div class="row">
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+            <img src="~/Imagenes/ventas.jpg" alt="...">
+            <div class="caption">
+                <h3>Compra - Venta</h3>
+                <p>En esta opción puede administrar vehiculos</p>
+                <p>@Html.ActionLink("Ver Compra - Venta", "IndexUsuario", "Vehiculo")</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+            <img src="~/Imagenes/carr.jpg" alt="...">
+            <div class="caption">
+                <h3>Vehiculos</h3>
+                <p>En esta opción puede administrar vehiculos</p>
+                <p>@Html.ActionLink("Ver vehiculos", "VehiculoUsuario", "Usuario")</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+            <img src="~/Imagenes/marcas.jpg" alt="...">
+            <div class="caption">
+                <h3>Marcas</h3>
+                <p>En esta opción puede administrar vehiculos</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+}
+
+
